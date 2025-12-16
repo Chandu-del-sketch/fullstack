@@ -1,0 +1,7 @@
+Steps tested:
+
+- For Modification file
+- Run git status
+- Stage the file
+- Commit the change
+- Push to GitHub

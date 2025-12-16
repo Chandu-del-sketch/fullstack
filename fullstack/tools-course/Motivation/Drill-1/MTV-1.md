@@ -8,4 +8,3 @@
 
 ## The good day of learning looks like for me 
 - For me, a good day of learning starts with clear goals—knowing what I need to accomplish by the end of the day, whether it's mastering a new concept, completing a coding challenge, or building a feature.
-
